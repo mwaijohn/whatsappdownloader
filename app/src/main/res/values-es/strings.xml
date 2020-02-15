@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="your_files_will_appear_here">Tus archivos aparecerán aquí</string>
+    <string name="view_downloaded_status">Ver el estado descargado</string>
+    <string name="title_activity_saved">Salvado</string>
+    <string name="share">compartir</string>
+    <string name="saved_status">Estado guardado</string>
+    <string name="save_successful_message">Guardado en la galería!</string>
+    <string name="save_error_message">No se pudo guardar. Vuelve a intentarlo más tarde.</string>
+    <string name="repost">volver a publicar</string>
+    <string name="open_to_see_latest_updates">Nos califica</string>
+    <string name="delete">borrar</string>
+    <string name="download">descargar</string>
+    <string name="download_recent_status">Descargar estado reciente</string>
+    <string name="file_deleted">Archivo eliminado</string>
+    <string name="menu_rateus">" Nos califica"</string>
+    <string name="menu_privacy">Política de privacidad</string>
+    <string name="fragment_images">IMAGENES</string>
+    <string name="fragment_videos">VÍDEOS</string>
+    <string name="unsaved_label">enviar texto a un número no guardado</string>
+    <string name="massage_button">Texto</string>
+</resources>

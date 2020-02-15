@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Statut Saver</string>
+    <string name="share">partager</string>
+    <string name="download_recent_status">Télécharger le statut récent</string>
+    <string name="download">Télécharger</string>
+    <string name="delete">effacer</string>
+    <string name="file_deleted">Fichier supprimé</string>
+    <string name="open_to_see_latest_updates">Ouvert pour voir les dernières mises à jour</string>
+    <string name="repost">republier</string>
+    <string name="save_error_message">Impossible de sauvegarder, réessayer plus tard</string>
+    <string name="save_successful_message">" Enregistré à la galerie!"</string>
+    <string name="saved_status">Statut enregistré</string>
+    <string name="title_activity_saved">Enregistré</string>
+    <string name="view_downloaded_status">Afficher le statut téléchargé</string>
+    <string name="your_files_will_appear_here">Vos fichiers apparaîtront ici</string>
+    <string name="menu_rateus">Évaluez nous</string>
+    <string name="menu_privacy">Politique de confidentialité</string>
+    <string name="fragment_images">IMAGES</string>
+    <string name="fragment_videos">VIDÉOS</string>
+    <string name="massage_button">Texte</string>
+    <string name="unsaved_label">envoyer du texte à un numéro non enregistré</string>
+</resources>

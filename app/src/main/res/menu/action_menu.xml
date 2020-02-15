@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_rate_us"
+        android:title="@string/menu_rateus"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_policy"
+        android:title="@string/menu_privacy"
+        app:showAsAction="never"/>
+</menu>

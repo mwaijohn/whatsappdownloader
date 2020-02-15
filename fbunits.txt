@@ -1,0 +1,17 @@
+
+This app is using mediation
+Set up mediation
+System user access token:
+EAAiOBM9M1ZAoBAD7UVqmLCVgRmtk7mDxmZBZCfVCZCr9569xTuR0rjgKByLNJQKQnnWqaTwRZAQKfGfg1FanNilNO3BbKk44HZCRAZAOQxNK3UwpDQZBBEb4X8ZAiPqk82vUqpobu8efHuLR7Qh0C7BIizqCZB9XPedCzIzaPbUUVYv6dWHjLvx595
+Property ID:
+899791007066969
+
+Platform:Android app
+Format:Interstitial
+Placement ID:2407951122617754_2407955425950657
+SDK integration instructions
+https://developers.facebook.com/docs/audience-network/android
+
+Testing tools
+Manage test devices: https://business.facebook.com/pub/testing?business_id=2193032397580900
+SDK debugger: https://developers.facebook.com/docs/audience-network/android/troubleshooting

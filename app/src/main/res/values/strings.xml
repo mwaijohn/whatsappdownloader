@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="save_successful_message">Saved To Gallery!</string>
+    <string name="save_error_message">Could not save,Try again later</string>
+    <string name="title_pics" translatable="false">You have not watched any whatsapp status currently,Once you watch a whatsapp status,it will automatically show here for you to download</string>
+    <string name="title_videos" translatable="false">Vids</string>
+    <string name="title_videos2" translatable="false">Vids</string>
+    <string name="title_activity_home" translatable="false">HomeActivity</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_image" translatable="false">ImageActivity</string>
+    <string name="title_activity_saved">Saved</string>
+
+    <string name="file_deleted">File deleted</string>
+    <string name="your_files_will_appear_here">Your files will appear here</string>
+    <string name="privacy" translatable="false">https://sites.google.com/view/apppolicyinformation/</string>
+    <string name="app_id" translatable="false">ca-app-pub-6460950649539083~2745160254</string>
+<!--    <string name="banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="banner" translatable="false">ca-app-pub-6460950649539083/4796608521</string>
+    <string name="interstitial" translatable="false">ca-app-pub-6460950649539083/5552847497</string>
+
+    <string name="download_recent_status">Download recent status</string>
+    <string name="open_to_see_latest_updates">Open to see latest updates</string>
+    <string name="view_downloaded_status">View downloaded status</string>
+    <string name="saved_status">Saved Status</string>
+    <string name="repost">repost</string>
+    <string name="share">share</string>
+    <string name="download">download</string>
+    <string name="delete">delete</string>
+    <string name="menu_rateus">Rate Us</string>
+    <string name="menu_privacy">Privacy policy</string>
+    <string name="fragment_images">IMAGES</string>
+    <string name="fragment_videos">VIDEO</string>
+    <string name="unsaved_label">send text to unsaved number</string>
+    <string name="massage_button">Text</string>
+</resources>
